@@ -1,7 +1,6 @@
 {
   "name": "gitreject",
   "version": "0.0.1",
-  "private": true,
   "description": "GitReject",
   "author": {
     "name": "Pranav Raj Singh Chauhan",
